@@ -2,4 +2,4 @@
 
 # OGGConverter by RiritoNinigaya
 
-This is my first OGG Converter in Python Programming Language... So Enjoy To Use This My OGG Converter!!! **WORKS ONLY ON MP3 FILE!!!!**
+This is my first OGG Converter in Python Programming Language... So Enjoy To Use My OGG Converter!!! **WORKS ONLY ON MP3 FILE!!!!**
