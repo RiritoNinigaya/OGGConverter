@@ -10,7 +10,7 @@ def AskMP3FileOpen():
 
 def Main():
     stringlit = AskMP3FileOpen()
-    oggname = input("Please Write OGG Name of You're Sound Or Music: ")
+    oggname = input("Please Write OGG Name for Saving You're File: ")
     fh = open("NUL","w")
     subprocess.Popen("ffmpeg -i {} -c:a libvorbis {}.ogg".format(stringlit, oggname), stdout = fh, stderr = fh)
     fh.close()
